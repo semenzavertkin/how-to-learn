@@ -283,11 +283,12 @@
   font-weight: 600;
 }
 
-.footer__column-item {
+.footer__column-list {
   display: flex;
   flex-direction: column;
   margin-bottom: 16px;
   padding: 0;
+  list-style-type: none;
 }
 
 .footer__column-link {
